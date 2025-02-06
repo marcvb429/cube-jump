@@ -1,2 +1,4 @@
 # cube-jump
-its inspired on geometry dash and the impossible game, so thanks to their creator!!1!
+its inspired on geometry dash and the impossible game, so thanks to their creator!
+
+how to use semantic versioning: https://semver.org/
